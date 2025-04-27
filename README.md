@@ -6,7 +6,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="./src/computer.gif">
+<img align="right" alt="" height="220px" src="./src/computer.gif">
 
 <h3 align="left" style="margin-bottom: 0;">Connect with me!🌐</h3> 
 
@@ -20,4 +20,4 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=green" target="_blank">
 </a>
 
-</div
+</div>

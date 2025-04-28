@@ -6,7 +6,7 @@
 
 #
 
-<img align="right" alt="" height="250px" src="./src/computer.gif">
+<img align="right" alt="" height="220px" src="./src/computer.gif">
 
 <h3 align="left" style="margin-bottom: 0;">Connect with me!🌐</h3> 
 

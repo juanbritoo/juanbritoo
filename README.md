@@ -10,7 +10,6 @@
 
 <h3 align="left" style="margin-bottom: 0;">Connect with me!🌐</h3> 
 
-
 <div> 
   
   <a href="https://www.linkedin.com/in/juanbritoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -24,7 +23,7 @@
 
 <h3 align="left" style="margin-bottom: 0;"> Estudando (My Stack):</h3>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Juan-Java" height="30" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,7 +33,6 @@
 </div>
 
 <br> 
-<br>
 <br>
 
 

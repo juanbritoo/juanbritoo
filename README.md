@@ -1,4 +1,4 @@
-<img align="center" alt="" src="./src/header.gif"> <br>
+<img align="center" alt="" src="./src/headerReadme.gif"> <br>
 
 #
 

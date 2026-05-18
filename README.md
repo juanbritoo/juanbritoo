@@ -2,7 +2,8 @@
 
 #
 
-<p align="center"> Estudante de Ciência da Computação na Universidade São Judas Tadeu. Atualmente trabalho com automação, mas estou em transição para a área de desenvolvimento, com foco em backend. Venho estudando programação por conta própria, sempre buscando evoluir e encarar novos desafios. Sou apaixonado por tecnologia e por criar soluções que realmente façam a diferença. 🚀 
+<p align="center"> Estudante de Ciência da Computação na Universidade São Judas Tadeu. Atualmente atuo na área de tecnologia com foco em automação, APIs e Quality Assurance, enquanto faço minha transição para o desenvolvimento backend. Venho estudando programação por conta própria, buscando evoluir constantemente e encarar novos desafios. Sou apaixonado por tecnologia, resolução de problemas e pela criação de soluções que realmente façam a diferença. 🚀
+ 
 
 #
 
